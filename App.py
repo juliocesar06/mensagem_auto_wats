@@ -16,4 +16,3 @@ while len(contatos) >= 1:
     time.sleep(30)
     keyboard.press_and_release('ctrl + w')
     i += 1
-#4 testar
